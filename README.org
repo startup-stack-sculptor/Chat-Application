@@ -4,15 +4,25 @@ This is a simple chat application built using Kotlin programming language. It al
 ** Features
     User registration: Users can create an account by providing a username and password.
     Login: Registered users can log in using their credentials to access the chat functionality.
+
+    
     Chat Rooms: Users can join different chat rooms and participate in conversations.
+
     Real-time messaging: Users can send and receive messages in real-time within the chat rooms.
+
     Message history: Chat history is maintained, allowing users to view past messages in a chat room.
+    
     User presence: Users can see the online status of other users in the chat rooms.
+
     Notifications: Users receive notifications for new messages or when they are mentioned in a chat.
 
 ** Technologies Used
     Kotlin: The primary programming language used for building the application.
+
     Android SDK: The Android Software Development Kit for developing Android applications.
+    
     Firebase: Firebase Realtime Database is used for real-time data synchronization and storage.
+    
     Firebase Authentication: Used for user authentication and account management.
+
     Firebase Cloud Messaging: Enables push notifications for new messages.
